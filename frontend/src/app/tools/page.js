@@ -221,7 +221,7 @@ function ToolsPageContent() {
                                         <div className="text-right flex-1">
                                             <div className="font-bold text-gray-900">{type.name}</div>
                                             <div className="text-sm text-gray-500 mt-1">
-                                                {type.from} ← {type.to}
+                                                {type.from} → {type.to}
                                             </div>
                                         </div>
                                     </div>
